@@ -9,7 +9,7 @@ description = "Verify that your codebase actually implements your spec — power
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Bhupendra Gurjar", email = "bgurjar05.bg@gmail.com" }]
+authors = [{ name = "Bhupendra Tale", email = "bgurjar05.bg@gmail.com" }]
 keywords = ["spec", "requirements", "verification", "audit", "llm", "claude", "anthropic", "ci"]
 classifiers = [
     "Development Status :: 4 - Beta",
